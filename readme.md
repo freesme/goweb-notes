@@ -1,3 +1,5 @@
+《GO Web编程》
+
 1.使用GoWeb以及GoWeb的，优点，http协议等构成web应用的关键概念
 
 2.构建web应用  网上论坛
@@ -17,3 +19,5 @@
 9.在web应用中使用Go语言的并发特性的方法
 
 10、部署Go Web应用
+
+随书代码：github.com/sausheong/gwp
