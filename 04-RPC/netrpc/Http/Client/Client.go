@@ -30,4 +30,12 @@ func main() {
 		log.Fatal(err3)
 	}
 	fmt.Println(ret)
+
+	/*
+	   //	异步方式
+	   	divCall := client.Go("Arith.Divide", Params{50, 100}, &ret, nil)
+	   	<-divCall.Done
+	   	fmt.Println(ret)
+	*/
+
 }
